@@ -1,4 +1,4 @@
-### Nice to see you! 👋ㅡ
+## Nice to see you! 👋
 
 Welcome to my page!
 I'm YeJu Lee, Data Analyst.
