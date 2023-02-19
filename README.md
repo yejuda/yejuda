@@ -1,4 +1,7 @@
-### Hi there 👋
+### Nice to see you! 👋ㅡ
+
+Welcome to my page!
+I'm YeJu Lee, Data Analyst.
 
 <!--
 **yejuda/yejuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
