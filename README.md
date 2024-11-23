@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <a href="https://risingdata.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://github.com/yejuda" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={yj0502}&theme=warm)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejuda&show_icons=true&theme=aura_dark)
