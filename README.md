@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋
 ## 👋 About Me
 
-안녕하세요! 데이터와 AI 분야에 끊임없이 목표를 찾아 도전하는 **AI & 데이터 전문가** 이예주입니다.
+안녕하세요! 데이터와 AI 분야에 끊임없이 목표를 찾아 도전하는 **AI & 데이터 엔지니어** 이예주입니다.
 
 ### 🔍 What I Do
 - **LLM 기반 서비스 개발**: RAG 시스템 설계, Function Calling 활용 경험
